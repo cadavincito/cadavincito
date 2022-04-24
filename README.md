@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World 👋
+
+Coding Noob
+### Coding shenanigans
 
 <!--
 **cadavincito/cadavincito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
