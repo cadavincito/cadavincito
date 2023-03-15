@@ -1,9 +1,11 @@
 ### Hello World 👋
 
-🤔 Coding Noob.
+🤔 Coding Noob (?)
 
 ### Website
-https://cadavincito.github.io/website/
+https://cadavinci.com
+
+### I like Cooking and Coding.
 
 
 <!--
