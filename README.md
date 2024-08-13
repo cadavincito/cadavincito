@@ -3,7 +3,7 @@
 🤔 Coding Noob (?)
 
 ### Website
-https://cadavinci.com
+https://cadavinci.digital
 
 ### I like Cooking and Coding.
 
