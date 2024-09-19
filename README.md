@@ -2,8 +2,6 @@
 
 🤔 Coding Noob (?)
 
-### Website
-https://cadavinci.digital
 
 ### I like Cooking and Coding.
 
